@@ -5,6 +5,7 @@ Created on Fri Sep 15 14:04:50 2017
 
 @author: urwork
 """
+#TensorFlow 实现自编码器
 import numpy as np 
 
 import sklearn.preprocessing as prep

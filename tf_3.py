@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
-
+#TensorFlow 实现多层感知机
 from tensorflow.examples.tutorials.mnist import input_data
 
 import tensorflow as tf
