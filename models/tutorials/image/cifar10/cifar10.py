@@ -44,7 +44,7 @@ import tarfile
 from six.moves import urllib
 import tensorflow as tf
 
-import cifar10_input
+from . import cifar10_input
 
 parser = argparse.ArgumentParser()
 
